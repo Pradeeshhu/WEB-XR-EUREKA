@@ -1,0 +1,27 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main # You can adjust this to match your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Add any build steps you need here, such as compiling code, installing dependencies, etc.
+
+      - name: Copy Images
+        run: cp -r images/ public/images/ # Adjust the source and destination paths as needed
+
+      - name: Build and Deploy
+        run: |
+          # Your build and deploy commands here
+          # For example, if you're using Jekyll:
+          # bundle install
+          # bundle exec jekyll build
+          # And then deploy the `_site` directory to GitHub Pages

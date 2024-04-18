@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main # You can adjust this to match your main branch name
+      - main
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       # Add any build steps you need here, such as compiling code, installing dependencies, etc.
 
       - name: Copy Images
-        run: cp -r images/ public/images/ # Adjust the source and destination paths as needed
+        run: cp -r images/ public/images/
 
       - name: Build and Deploy
         run: |

@@ -14,9 +14,10 @@ jobs:
         uses: actions/checkout@v2
 
       # Add any build steps you need here, such as compiling code, installing dependencies, etc.
+      # For static site generators like Jekyll or Hugo, you might need to run a build command.
 
       - name: Copy Images
-        run: /images/Screenshot_2.png
+        run: cp -r images/ public/images/ # Adjust the source and destination paths as needed
 
       - name: Build and Deploy
         run: |

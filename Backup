@@ -13,12 +13,12 @@
     <main>
         <section class="content">
             <div class="text">
-                <h2>Peace_Garden_Tulips</h2>
+                <h2>Test-1</h2>
                 <p>
                     XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
                     Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
                     offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
-                <a href="https://adobeaero.app.link/Y7rILsA5bKb" class="explore-button">Explore XR</a>
+                <a href="https://adobeaero.app.link/SlISGDqDSIb" class="explore-button">Explore XR</a>
             </div>
             <div class="images">
                 <img src="images/screenshot_1.png" alt="image_1a">
@@ -30,12 +30,12 @@
 
         <section class="content">
             <div class="text">
-                <h2>Peace_Garden</h2>
+                <h2>Test-2</h2>
                 <p>
                     XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
                     Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
                     offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
-                <a href="https://adobeaero.app.link/bsnkKZ6rHKb" class="explore-button">Explore XR</a>
+                <a href="https://adobeaero.app.link/zkNRQEmESIb" class="explore-button">Explore XR</a>
             </div>
             <div class="images">
                 <img src="images/screenshot_2.png" alt="image_2a">
@@ -48,12 +48,12 @@
 
         <section class="content">
             <div class="text">
-                <h2>CommenWealth_Statue</h2>
+                <h2>Test-3</h2>
                 <p>
                     XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
                     Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
                     offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
-                <a href="https://adobeaero.app.link/ULjCVo44KJb" class="explore-button">Explore XR</a>
+                <a href="https://adobeaero.app.link/gDufn0ZESIb" class="explore-button">Explore XR</a>
             </div>
             <div class="images">
                 <img src="images/screenshot_3.png" alt="image_3a">
@@ -65,12 +65,12 @@
 
         <section class="content">
             <div class="text">
-                <h2>Harrisburg_University</h2>
+                <h2>Test-4</h2>
                 <p>
                     XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
                     Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
                     offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
-                <a href="https://adobeaero.app.link/aK0CggkYpJb" class="explore-button">Explore XR</a>
+                <a href="https://adobeaero.app.link/7Z3XtiTFSIb" class="explore-button">Explore XR</a>
             </div>
             <div class="images">
                 <img src="images/screenshot_4.png" alt="image_4a">
@@ -79,6 +79,55 @@
  
         </section>
 
+
+        <section class="content">
+            <div class="text">
+                <h2>Test-5</h2>
+                <p>
+                    XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
+                    Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
+                    offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
+                <a href="https://adobeaero.app.link/lpoKACqGSIb" class="explore-button">Explore XR</a>
+            </div>
+            <div class="images">
+                <img src="images/screenshot_5.png" alt="image_5a">
+                <img src="images/test_5.png" alt="image_5b">
+            </div>
+ 
+        </section>
+
+
+        <section class="content">
+            <div class="text">
+                <h2>Test-6</h2>
+                <p>
+                    XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
+                    Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
+                    offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
+                <a href="https://adobeaero.app.link/hGURnCSMTIb" class="explore-button">Explore XR</a>
+            </div>
+            <div class="images">
+                <img src="images/screenshot_6.PNG" alt="image_6a">
+                <img src="images/test_6.png" alt="image_6b">
+            </div>
+ 
+        </section>
+
+        <section class="content">
+            <div class="text">
+                <h2>Peace Garden</h2>
+                <p>
+                    XR Tourism merges reality with virtual experiences, transporting users to distant locales without leaving home. 
+                    Through augmented or virtual reality, travelers immerse themselves in realistic simulations of destinations worldwide, 
+                    offering a taste of adventure, culture, and exploration. It revolutionizes travel, making it accessible and enriching.</p>
+                <a href="https://adobeaero.app.link/xdGyW0tk7Ib" class="explore-button">Explore XR</a>
+            </div>
+            <div class="images">
+                <img src="images/screenshot_7.png" alt="image_7a">
+                <img src="images/test_7.png" alt="image_7b">
+            </div>
+ 
+        </section>
 
     </main>
     <footer>
